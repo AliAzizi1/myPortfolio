@@ -500,7 +500,7 @@ const HomePage = () => {
                                                         <path d="M12 2a15.3 15.3 0 0 1 0 20a15.3 15.3 0 0 1 0-20z"></path>
                                                     </svg>
                                                     <span style={{ opacity: "0.5" }}>https://</span>
-                                                    <MyPortfolioLink href="https://form-builder.liara.run/form-builder" target="blank">taskly</MyPortfolioLink>
+                                                    <MyPortfolioLink href="https://taskly1.vercel.app" target="blank">taskly1.vercel.app</MyPortfolioLink>
                                                 </MyPortfolioCardHeaderLinkBox>
                                                 <span style={{ opacity: "0.6" }}>تسک لــی</span>
                                             </>
@@ -526,7 +526,7 @@ const HomePage = () => {
                                                         <path d="M12 2a15.3 15.3 0 0 1 0 20a15.3 15.3 0 0 1 0-20z"></path>
                                                     </svg>
                                                     <span style={{ opacity: "0.5" }}>https://</span>
-                                                    <MyPortfolioLink href="https://form-builder.liara.run/form-builder" target="blank">taskly</MyPortfolioLink>
+                                                    <MyPortfolioLink href="https://taskly1.vercel.app" target="blank">taskly1.vercel.app</MyPortfolioLink>
                                                 </MyPortfolioCardHeaderLinkBox>
                                             </>
                                         )}
